@@ -1,0 +1,1 @@
+[{'uuid': 1, 'name': 'Sid', 'email': 'sbhatore95@gmail.com', 'contact': 6263817527, 'total': 3483}, {'uuid': 2, 'name': 'Bhatore', 'email': 'bhatoresiddharth@gmail.com', 'contact': 9052054894, 'total': 1983}, {'uuid': 3, 'name': 'Sid', 'email': 'playerofiiith@gmail.com', 'contact': 1111111112, 'total': 2493}]
